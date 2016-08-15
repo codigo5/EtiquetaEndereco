@@ -1,0 +1,5 @@
+app/code/community/FabioSantos/EtiquetaEndereco app/code/community/FabioSantos/EtiquetaEndereco
+app/design/adminhtml/default/default/layout/fabiosantos/*.xml app/design/adminhtml/default/default/layout/fabiosantos/
+app/design/adminhtml/default/default/template/etiquetaendereco app/design/adminhtml/default/default/template/etiquetaendereco
+app/etc/modules/*.xml app/etc/modules/
+skin/adminhtml/default/default/images/etiquetaendereco skin/adminhtml/default/default/images/etiquetaendereco
